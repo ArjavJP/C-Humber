@@ -1,0 +1,17 @@
+D:\Humber\.Net\Week10\bin\Debug\net8.0-windows\Week10.exe
+D:\Humber\.Net\Week10\bin\Debug\net8.0-windows\Week10.deps.json
+D:\Humber\.Net\Week10\bin\Debug\net8.0-windows\Week10.runtimeconfig.json
+D:\Humber\.Net\Week10\bin\Debug\net8.0-windows\Week10.dll
+D:\Humber\.Net\Week10\bin\Debug\net8.0-windows\Week10.pdb
+D:\Humber\.Net\Week10\obj\Debug\net8.0-windows\Week10.Form1.resources
+D:\Humber\.Net\Week10\obj\Debug\net8.0-windows\Week10.Form2.resources
+D:\Humber\.Net\Week10\obj\Debug\net8.0-windows\Week10.csproj.GenerateResource.cache
+D:\Humber\.Net\Week10\obj\Debug\net8.0-windows\Week10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Humber\.Net\Week10\obj\Debug\net8.0-windows\Week10.AssemblyInfoInputs.cache
+D:\Humber\.Net\Week10\obj\Debug\net8.0-windows\Week10.AssemblyInfo.cs
+D:\Humber\.Net\Week10\obj\Debug\net8.0-windows\Week10.csproj.CoreCompileInputs.cache
+D:\Humber\.Net\Week10\obj\Debug\net8.0-windows\Week10.dll
+D:\Humber\.Net\Week10\obj\Debug\net8.0-windows\refint\Week10.dll
+D:\Humber\.Net\Week10\obj\Debug\net8.0-windows\Week10.pdb
+D:\Humber\.Net\Week10\obj\Debug\net8.0-windows\Week10.genruntimeconfig.cache
+D:\Humber\.Net\Week10\obj\Debug\net8.0-windows\ref\Week10.dll
